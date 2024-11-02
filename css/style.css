@@ -98,26 +98,26 @@ h2 {
 .works01 {
     position: relative;
     top: 0px;
-    left: -300px;
+    left: -50px;
 }
 
 .works02 {
     position: relative;
-    top: -500px;
-    left: 300px;
+    top: -50px;
+    left: 30px;
 }
 
 .works03 {
     position: relative;
-    top: -480px;
-    left: -300px;
+    top: -48px;
+    left: -30px;
 }
 
 .works04 {
     width: 40%;
 
-    top: 500px;
-    left: 700px;
+    top: 50px;
+    left: 70px;
 }
 
 /* CSS动画设置 */
